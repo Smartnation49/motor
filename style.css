@@ -1,0 +1,22 @@
+.hero-section{
+    place-content: center;
+}
+.eggroll{
+    height: 55px;
+    border: thin solid;
+    width: 60px;
+    /* padding: 10px; */
+    border-radius: 50%;
+    overflow: hidden;
+}
+.eggroll img{
+    width: 54px;
+    height: 45px;
+    object-fit: cover;
+}
+.messa{
+    font-size: 12px;
+}
+img{
+    border-radius: 12px;
+}
